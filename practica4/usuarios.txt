@@ -1,0 +1,36 @@
+5
+alvaro
+alvaro
+0 1 1
+1 0 0
+1460796999
+
+_X_X_X_
+luis
+luis
+0 0 0
+0 0 0
+1458124591
+
+_X_X_X_
+marta
+marta
+0 0 0
+0 0 0
+1458133100
+
+_X_X_X_
+pepito
+pepito
+0 0 0
+0 0 0
+1459098944
+
+_X_X_X_
+susana
+susana
+0 0 0
+0 0 0
+1458125089
+
+_X_X_X_
